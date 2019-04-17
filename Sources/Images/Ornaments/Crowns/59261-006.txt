@@ -1,0 +1,6 @@
+source : A Short History of Birds &amp; Beasts, for the Amusement and Instruction of Children
+url : http://www.gutenberg.org/ebooks/59261
+width : 127
+height : 108
+alt : A crown with three large feathers.
+colour : Greyscale

@@ -1,0 +1,6 @@
+source : A Short History of Birds &amp; Beasts, for the Amusement and Instruction of Children
+url : http://www.gutenberg.org/ebooks/59261
+width : 62
+height : 14
+alt : A divider consisting of a small circular mark, with short branches extending to the left and right.
+colour : Greyscale

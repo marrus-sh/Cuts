@@ -1,0 +1,6 @@
+source : A Short History of Birds &amp; Beasts, for the Amusement and Instruction of Children
+url : http://www.gutenberg.org/ebooks/59261
+width : 86
+height : 17
+alt : A divider with arrowheads pointing left and right from a central circle.
+colour : B&amp;W

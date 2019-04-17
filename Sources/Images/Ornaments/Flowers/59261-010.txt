@@ -1,0 +1,6 @@
+source : A Short History of Birds &amp; Beasts, for the Amusement and Instruction of Children
+url : http://www.gutenberg.org/ebooks/59261
+width : 125
+height : 150
+alt : A single flower, pointing upwards from the right.
+colour : Greyscale

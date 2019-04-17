@@ -1,0 +1,6 @@
+source : A Short History of Birds &amp; Beasts, for the Amusement and Instruction of Children
+url : http://www.gutenberg.org/ebooks/59261
+width : 148
+height : 159
+alt : A trumpet, flute, and natural horn, tied together and hanging from a bow.
+colour : Greyscale

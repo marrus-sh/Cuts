@@ -1,0 +1,6 @@
+source : A Short History of Birds &amp; Beasts, for the Amusement and Instruction of Children
+url : http://www.gutenberg.org/ebooks/59261
+width : 484
+height : 36
+alt : A divider with a repeating pattern of alternating hourglass shapes.
+colour : B&amp;W
